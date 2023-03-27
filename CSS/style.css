@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Sacramento&display=swap');
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  margin: 0;
+  font-size: 120px;
+  padding-top: 40px;
+  font-family:'Sacramento', cursive;
+  color: #F0EEED;
+}
+p.pirate{
+  font-size: 20px;
+  color: #F0EEED;
+}
+.top-container{
+  background-color: #2C3333;
+  height: 660px;
+}
+.intro{
+  position: relative;
+}
+.cloud-1{
+  position: absolute;
+  right: 15%;
+  bottom: 0;
+}
+.land{
+  position: relative;
+  margin-top: 100px;
+}
+.cloud-2{
+  position: absolute;
+  bottom: 100%;
+  left: 8%;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pencil{
+  float: left;
+  margin-right: 30px;
+}
+.PC{
+  float: right;
+  margin-left: 30px;
+}
+.middle-container{
+  background-color: #ffffff;
+}
+.profileimg{
+  padding-top: 100px;
+}
+.skills{
+  margin-top: 130px;
+}
+p.write{
+ margin: 0 auto 0 auto;
+ width: 500px;
+ line-height: 2;
+}
+h2{
+  color: black;
+  font-size: 80px;
+}
+p{
+  color: black;
+}
+.bottom-container{
+  background-color: #dee2e2;
+  margin: 0 auto;
+}
+p.copyright{
+  margin: 0;
+}
